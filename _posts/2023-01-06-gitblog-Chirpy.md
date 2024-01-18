@@ -2,7 +2,7 @@
 title: Set up a gitblog with the theme 'Chirpy'
 date: 2024-01-06  #YYYY-MM-DD HH:MM:SS +/-TTTT
 last_modified_at : 2024-01-07
-categories: ['TIL', 'Git'] #[TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [TIL, Git] #[TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [gitblog, chirpy]     # TAG names should always be lowercase
 #math: true
 

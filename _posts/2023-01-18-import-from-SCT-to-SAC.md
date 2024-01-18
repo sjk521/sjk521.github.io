@@ -2,8 +2,8 @@
 title: Import Data from SCT to SAC
 date: 2024-01-18  #YYYY-MM-DD HH:MM:SS +/-TTTT
 last_modified_at : 2024-01-18
-categories: ['TIL', 'SAP'] #[TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [gitblog, chirpy]     # TAG names should always be lowercase
+categories: [TIL, SAP] #[TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [SAP, SAC, SCT]     # TAG names should always be lowercase
 #math: true
 
 toc : true
