@@ -27,4 +27,4 @@ Don't overlook the power of official documents.
 
 
 ## Maybe tomorrow
-Try to add a picture to a next log
+Try to add a picture to a next log.
