@@ -8,6 +8,10 @@ tags: [gitblog, chirpy]     # TAG names should always be lowercase
 
 toc : true
 toc_sticky : true
+
+runs:
+  using: 'node20'
+  main: 'main.js'
 ---
 
 
